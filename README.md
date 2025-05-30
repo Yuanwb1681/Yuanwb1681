@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yuanwb1681
+- 👋 Hi, I’m YWB.
 - 👀 I’m interested in Seismic imaging and C language programming.
 - 🌱 I’m currently learning SU and C language programming.
 - 📫 Reach me yuanwenbo1681@gmail.com.
